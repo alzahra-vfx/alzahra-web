@@ -1,0 +1,2 @@
+(self.webpackChunkalzahravfx_website=self.webpackChunkalzahravfx_website||[]).push([[36],{7833:function(a,t,e){"use strict";e.r(t),e.d(t,{default:function(){return s}});var r=e(7294);function s(a){return r.createElement("div",null,"Props Data: ",a.data.tagsYaml.id,a.data.tagsYaml.id,"Props Params: ",a.params.id)}}}]);
+//# sourceMappingURL=component---src-pages-samples-tags-yaml-id-tsx-742272098bf8df431d29.js.map
